@@ -1,1 +1,1 @@
-from desktop
+from eeepc
