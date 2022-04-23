@@ -1,1 +1,1 @@
-from eeepc
+some text
